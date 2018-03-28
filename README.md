@@ -1,8 +1,20 @@
+[![Build Status](https://travis-ci.org/mycoralhealth/blockchain-tutorial.svg?branch=master)](https://travis-ci.org/mycoralhealth/blockchain-tutorial)
+
 # Code your own blockchain in less than 200 lines of Go!
 
 ### Tutorial
 
 [Read](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc) our blog post first to see a walkthrough of the code.
+
+### Ask us anything!
+
+Join our [Telegram](https://t.me/joinchat/FX6A7UThIZ1WOUNirDS_Ew) chat and follow us on [Twitter](https://twitter.com/myCoralHealth)!
+
+#### Check out our follow-up tutorials:
+- [Networking](https://github.com/mycoralhealth/blockchain-tutorial/tree/master/networking)
+- [Proof of Work](https://github.com/mycoralhealth/blockchain-tutorial/tree/master/proof-work)
+- [Proof of Stake](https://github.com/mycoralhealth/blockchain-tutorial/tree/master/proof-stake)
+- [IPFS](https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c)
 
 ### Deployment steps:
 - `git clone https://github.com/mycoralhealth/blockchain-tutorial.git`
@@ -19,6 +31,4 @@
 
 ![screen](https://user-images.githubusercontent.com/15616604/35492333-2829f690-0461-11e8-8c1f-8a0258d370e8.png)
 
-### Questions? Comments?
 
-Join our [Telegram](https://t.me/joinchat/FX6A7UThIZ1WOUNirDS_Ew) chat and follow us on [Twitter](https://twitter.com/myCoralHealth)!
